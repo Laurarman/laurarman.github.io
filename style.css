@@ -13,7 +13,7 @@ body {
   background: #e1e4e5 url(images/dotz.jpg) repeat scroll 0% 50%;
   font-size: 10.5pt;
   line-height: 1.75em;
-  font-family: Helvetica,sans-serif;
+  font-family: Raleway,sans-serif;
   color: #383939;
 }
 br.clear {
@@ -22,7 +22,7 @@ br.clear {
 h2, h3, h4 {
   font-weight: normal;
   margin-bottom: 1em;
-  font-family: Helvetica,sans-serif;
+  font-family: Raleway,sans-serif;
   color: #000000;
 }
 h2 {
@@ -286,7 +286,7 @@ dd.alist p{margin-top:0.2em}
 }
 #logo h1 {
   color: #fbfaff;
-  font-family: Helvetica,Arial,sans-serif;
+  font-family: Raleway,sans-serif;
   font-size: 3.25em;
   font-weight: bold;
   text-shadow: #000000 0 1px 0;
