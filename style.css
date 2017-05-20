@@ -53,6 +53,14 @@ ul {
   clear: both;
 }
 .small-caps{font-variant: small-caps; }
+.style1 {
+font-size: 16px;
+font-weight: bold;
+}
+.style2 {
+font-size: 12pt;
+font-weight: bold;
+}
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
 p.nopar { text-indent: 0em; }
