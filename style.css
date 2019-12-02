@@ -172,7 +172,7 @@ div.ex dt, dt.alist{float:left;clear:left}
 .tsent {display:table-cell; display:inline-block; padding-right:0.2em; padding-top:0em; padding-bottom:0em; padding-left:0em; margin:0em; }
 dd.alist p{margin-top:0.2em}
 #bg {
-  background: transparent url(images/dotz.jpg) repeat scroll left top;
+  background: transparent repeat scroll left top;
 }
 #banner {
   border-bottom: 1px solid #c0c0c0;
