@@ -10,7 +10,7 @@ a:hover {
   text-decoration: none;
 }
 body {
-  background: #e1e4e5 url(images/dotz.jpg) repeat scroll 0% 50%;
+  background: #e1e4e5;
   font-size: 10.5pt;
   line-height: 1.75em;
   font-family: Raleway,sans-serif;
