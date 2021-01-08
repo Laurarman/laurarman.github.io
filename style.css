@@ -224,7 +224,7 @@ dd.alist p{margin-top:0.2em}
   margin: 28px 0 64px;
   color: #d7d7d7;
   text-align: center;
-  text-shadow: #111111 2px 2px 2px;
+  text-shadow: #111111 .5px .5px 4px;
 }
 #copyright a {
   color: #dbdbdb;
